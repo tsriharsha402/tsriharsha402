@@ -33,7 +33,7 @@ I'm building a portfolio of production-minded AI projects. Each one ships with a
 
 | Project | What it demonstrates | Status |
 |---|---|---|
-| **production-rag-service** | RAG API with citations, caching, rate limiting, evals in CI and a cost/latency dashboard | 🔜 Up next |
+| **[production-rag-service](https://github.com/tsriharsha402/production-rag-service)** | RAG API with verifiable citations, caching, rate limiting, a 46-question eval suite gating CI and per-request cost tracking | ✅ v0.1 shipped |
 | **llm-model-selection** | Benchmarking models on quality, latency and cost, ending in a one-page recommendation memo | 📋 Planned |
 | **reliable-agent** | Tool-using agent with guardrails, retries, tracing and failure analysis | 📋 Planned |
 | **ai-delivery-playbook** | Templates for AI feature PRDs, eval plans, risk registers, launch and incident reviews | 📋 Planned |
@@ -76,7 +76,7 @@ I'm building a portfolio of production-minded AI projects. Each one ships with a
 
 ## 📈 Right now
 
-- 🔭 Building **production-rag-service**
+- 🔭 Measuring **production-rag-service** against Claude and adding hybrid retrieval
 - 🌱 Going deep on LLM evaluation, agent reliability and AI product delivery
 - 💬 Ask me about backend architecture, APIs and scaling systems, and how those lessons apply to LLMs
 
