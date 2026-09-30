@@ -1,5 +1,4 @@
-<!-- TODO: put your name in the heading, e.g. "Hi, I'm <Your Name> 👋" -->
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi, I'm Sriharsha T 👋</h1>
 
 <h3 align="center">Senior Backend Engineer → building production-grade LLM systems</h3>
 
@@ -7,7 +6,7 @@
   <em>Reliable. Measurable. Worth what they cost.</em>
 </p>
 
-<!-- TODO: uncomment and add your LinkedIn URL
+<!-- LinkedIn placeholder: replace YOUR-HANDLE with your profile handle, then delete this line and the closing arrow below
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
@@ -49,23 +48,30 @@ I'm building a portfolio of production-minded AI projects. Each one ships with a
 
 ## 🧰 Toolbox
 
-<!-- TODO: check these match your real experience; add or remove as needed -->
-**Backend & infrastructure**
+**Languages & frameworks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+**Data & infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_+_pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
 
 **AI engineering**
 
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector_Search-00897B?style=flat-square)
+![Embeddings & Vector Search](https://img.shields.io/badge/Embeddings_&_Vector_Search-00897B?style=flat-square)
 ![Agents](https://img.shields.io/badge/Agents_&_Tool_Use-C2185B?style=flat-square)
 ![LLM Evals](https://img.shields.io/badge/LLM_Evaluation-F57C00?style=flat-square)
+![Guardrails](https://img.shields.io/badge/Guardrails_&_Safety-455A64?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ## 📈 Right now
