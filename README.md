@@ -34,7 +34,7 @@ I'm building a portfolio of production-minded AI projects. Each one ships with a
 | Project | What it demonstrates | Status |
 |---|---|---|
 | **[production-rag-service](https://github.com/tsriharsha402/production-rag-service)** | RAG API with verifiable citations, caching, rate limiting, a 46-question eval suite gating CI and per-request cost tracking | ✅ v0.1 shipped |
-| **llm-model-selection** | Benchmarking models on quality, latency and cost, ending in a one-page recommendation memo | 📋 Planned |
+| **[llm-model-selection](https://github.com/tsriharsha402/llm-model-selection)** | Benchmarking Claude configurations on quality, latency and cost with confidence intervals and a pre-registered decision rule, ending in a one-page recommendation memo | 🔧 Framework built, first run pending |
 | **reliable-agent** | Tool-using agent with guardrails, retries, tracing and failure analysis | 📋 Planned |
 | **ai-delivery-playbook** | Templates for AI feature PRDs, eval plans, risk registers, launch and incident reviews | 📋 Planned |
 | **ai-team-leadership** | Hiring rubric, onboarding plan and 30-60-90 day plan for AI engineering teams | 📋 Planned |
