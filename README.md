@@ -35,7 +35,7 @@ I'm building a portfolio of production-minded AI projects. Each one ships with a
 |---|---|---|
 | **[production-rag-service](https://github.com/tsriharsha402/production-rag-service)** | RAG API with verifiable citations, caching, rate limiting, a 46-question eval suite gating CI and per-request cost tracking | ✅ v0.1 shipped |
 | **[llm-model-selection](https://github.com/tsriharsha402/llm-model-selection)** | Benchmarking Claude configurations on quality, latency and cost with confidence intervals and a pre-registered decision rule, ending in a one-page recommendation memo | 🔧 Framework built, first run pending |
-| **reliable-agent** | Tool-using agent with guardrails, retries, tracing and failure analysis | 📋 Planned |
+| **[reliable-agent](https://github.com/tsriharsha402/reliable-agent)** | Tool-using agent with layered guardrails (human approval for writes, rules in code, budgets, loop detection), full tracing and a 14-scenario eval incl. prompt injection | 🔧 Built, live eval pending |
 | **[ai-delivery-playbook](https://github.com/tsriharsha402/ai-delivery-playbook)** | Lifecycle, risk tiers and 9 templates (feature brief, eval plan, risk assessment, launch readiness, AI incident postmortem…), applied end to end to production-rag-service | ✅ v1 shipped |
 | **[ai-team-leadership](https://github.com/tsriharsha402/ai-team-leadership)** | Hiring for AI teams (competency matrix, interview loop, question bank with scoring anchors), onboarding, a 30-60-90 day plan, operating model and roadmap | ✅ v1 shipped |
 
@@ -76,7 +76,7 @@ I'm building a portfolio of production-minded AI projects. Each one ships with a
 
 ## 📈 Right now
 
-- 🔭 Measuring **production-rag-service** against Claude and adding hybrid retrieval
+- 🔭 Running live evaluations across my projects, then adding hybrid retrieval to **production-rag-service**
 - 🌱 Going deep on LLM evaluation, agent reliability and AI product delivery
 - 💬 Ask me about backend architecture, APIs and scaling systems, and how those lessons apply to LLMs
 
