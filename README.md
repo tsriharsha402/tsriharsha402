@@ -37,7 +37,7 @@ I'm building a portfolio of production-minded AI projects. Each one ships with a
 | **[llm-model-selection](https://github.com/tsriharsha402/llm-model-selection)** | Benchmarking Claude configurations on quality, latency and cost with confidence intervals and a pre-registered decision rule, ending in a one-page recommendation memo | 🔧 Framework built, first run pending |
 | **reliable-agent** | Tool-using agent with guardrails, retries, tracing and failure analysis | 📋 Planned |
 | **[ai-delivery-playbook](https://github.com/tsriharsha402/ai-delivery-playbook)** | Lifecycle, risk tiers and 9 templates (feature brief, eval plan, risk assessment, launch readiness, AI incident postmortem…), applied end to end to production-rag-service | ✅ v1 shipped |
-| **ai-team-leadership** | Hiring rubric, onboarding plan and 30-60-90 day plan for AI engineering teams | 📋 Planned |
+| **[ai-team-leadership](https://github.com/tsriharsha402/ai-team-leadership)** | Hiring for AI teams (competency matrix, interview loop, question bank with scoring anchors), onboarding, a 30-60-90 day plan, operating model and roadmap | ✅ v1 shipped |
 
 ## 💡 How I work
 
